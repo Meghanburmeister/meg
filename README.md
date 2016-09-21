@@ -1,2 +1,2 @@
-# meg.github.io
+# meg
 Meghanburmeister
