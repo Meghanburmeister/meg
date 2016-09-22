@@ -1,6 +1,6 @@
 body {
 	background: white;
-	color: #2e2f31;
+	color: #252940;
 }
 h1 {font-weight: 100;
 }
@@ -34,7 +34,7 @@ a {font-family: helvetica;
 }
 .jumbotron p {
 	color: white;
-	font-size: 36px;
+	font-size: 26px;
 }
 .navbar-inverse {
 	background: white;
@@ -42,7 +42,7 @@ a {font-family: helvetica;
 }
 
 .navbar-inverse .navbar-brand { 
-	color: black;
+	color: #e8e8e8;
 	font-family: helvetica;
 }
 
@@ -67,7 +67,7 @@ a {font-family: helvetica;
 	padding: 10px;
 }
 .btn-primary {
-	color: #fff;
+	color: #e8e8e8;
 	background-color: transparent;
 	border-color: white;
 	margin-bottom: 5px;
